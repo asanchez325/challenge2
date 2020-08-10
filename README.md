@@ -10,4 +10,4 @@ https://asanchez325.github.io/challenge2/.
 ## Contribution 
 Made with ❤️  by Alannah 
 ## Preview
-![alt preview](assets/images/portfolio) 
+![alt preview](..assets/images/portfolio) 
